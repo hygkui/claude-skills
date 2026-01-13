@@ -19,7 +19,7 @@
 你可以通过以下一行命令快速从 GitHub 下载并安装本项目中的所有 Skills：
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/hygkui/claude-skills/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/hygkui/claude-skills/refs/heads/master/install.sh | bash
 ```
 > **注意**：该脚本会自动将仓库中的 Skills 同步到你的 Claude 本地配置目录中。
 
